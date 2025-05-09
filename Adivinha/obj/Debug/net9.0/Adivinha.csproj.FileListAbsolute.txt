@@ -1,0 +1,14 @@
+C:\Users\zenxp\RiderProjects\Adivinha\Adivinha\obj\Debug\net9.0\Adivinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zenxp\RiderProjects\Adivinha\Adivinha\obj\Debug\net9.0\Adivinha.AssemblyInfoInputs.cache
+C:\Users\zenxp\RiderProjects\Adivinha\Adivinha\obj\Debug\net9.0\Adivinha.AssemblyInfo.cs
+C:\Users\zenxp\RiderProjects\Adivinha\Adivinha\obj\Debug\net9.0\Adivinha.csproj.CoreCompileInputs.cache
+C:\Users\zenxp\RiderProjects\Adivinha\Adivinha\bin\Debug\net9.0\Adivinha.exe
+C:\Users\zenxp\RiderProjects\Adivinha\Adivinha\bin\Debug\net9.0\Adivinha.deps.json
+C:\Users\zenxp\RiderProjects\Adivinha\Adivinha\bin\Debug\net9.0\Adivinha.runtimeconfig.json
+C:\Users\zenxp\RiderProjects\Adivinha\Adivinha\bin\Debug\net9.0\Adivinha.dll
+C:\Users\zenxp\RiderProjects\Adivinha\Adivinha\bin\Debug\net9.0\Adivinha.pdb
+C:\Users\zenxp\RiderProjects\Adivinha\Adivinha\obj\Debug\net9.0\Adivinha.dll
+C:\Users\zenxp\RiderProjects\Adivinha\Adivinha\obj\Debug\net9.0\refint\Adivinha.dll
+C:\Users\zenxp\RiderProjects\Adivinha\Adivinha\obj\Debug\net9.0\Adivinha.pdb
+C:\Users\zenxp\RiderProjects\Adivinha\Adivinha\obj\Debug\net9.0\Adivinha.genruntimeconfig.cache
+C:\Users\zenxp\RiderProjects\Adivinha\Adivinha\obj\Debug\net9.0\ref\Adivinha.dll
